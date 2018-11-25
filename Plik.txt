@@ -15,3 +15,10 @@ Ignorowanie plików przez gita
 13) git merge <nazwa_ga³êzi> - ³¹czy ga³êŸ z masterem
 14) git remote add origin https://github.com/Mar3k017/exercises.git - wysy³a lokalne repozytorium na zdalne
 15) git push -u origin master - zatwierdza wys³ane repozytorium i zapsiuje je na zdalnym serwerze tutaj na githubie
+(Uwaga! gdy u¿yjemu polecenia 'git remote add origin <adres>' aby wprowadzaæ zmiany w zdalnym repozytrium u¿ywam polecenia git push -u orgin <nazwa_ga³êzi> 
+16) git clone -b <branch_name> <repository_URL> example: git clone -b information https://github.com/Mar3k017/exercises.git
+-pozwala wykonaæ klon wybranej ga³êzi z zdalnego repozystorium.
+17) ls -pokazuje katalogi w repo
+18) cp <katalog_kopiowany/> <katalog_docelowy/> -r -kopijuje katalog do repo np.:  cp PlikiDoRepo/ GitClone/ -r
+19) git commit --amend - pozwala zrobiæ up date istniejacego komita bez koniecznoœci tworzenia nowego!!
+

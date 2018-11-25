@@ -13,3 +13,5 @@ Ignorowanie plików przez gita
 11) git brach <nazwa_ga³êzi> - tworzy now¹ ga³¹Ÿ 
 12) git checkout <nazwa_ga³êzi> - zmieniam ga³¹Ÿ
 13) git merge <nazwa_ga³êzi> - ³¹czy ga³êŸ z masterem
+14) git remote add origin https://github.com/Mar3k017/exercises.git - wysy³a lokalne repozytorium na zdalne
+15) git push -u origin master - zatwierdza wys³ane repozytorium i zapsiuje je na zdalnym serwerze tutaj na githubie

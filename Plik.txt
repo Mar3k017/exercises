@@ -1,0 +1,5 @@
+1) git init - nicializuje git repozytorium
+2) git rm --cached <nazwa_pliku> - przestaje œledziæ plik
+3) git add *.txt - dodaje wszystkie pliku o danym rozsze¿eniu 
+4) git add <nazwa_pliku> - dodaje wybrany plik
+5) git add . - dodaje wszystko

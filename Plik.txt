@@ -22,4 +22,5 @@ Ignorowanie plików przez gita
 18) cp <katalog_kopiowany/> <katalog_docelowy/> -r -kopijuje katalog do repo np.:  cp PlikiDoRepo/ GitClone/ -r
 19) git commit --amend - pozwala zrobiæ up date istniejacego komita bez koniecznoœci tworzenia nowego!!
 20) git push -f origin master - wymusza aktualizacjê na zdalnym repo
+21) git log - pokazuje wszystki kommity wraz z dayta i komentarzami które dodaliœmy!!
 

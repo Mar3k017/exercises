@@ -11,3 +11,4 @@ Ignorowanie plików przez gita
 9) touch .gitignore - tworze plik w którym  bêdê wpisywaæ nazwy plików które maj¹ byæ ignorowane!
 10) touch log.txt - tworzê plik z loagmi który ma byæ ignorowany
 11) git brach <nazwa_ga³êzi> - tworzy now¹ ga³¹Ÿ 
+12) git checkout <nazwa_ga³êzi> - zmieniam ga³¹Ÿ

@@ -6,8 +6,3 @@
 6) git commit .- komituje zmiany dla wszystkich plików (opali siê VIM aby pisaæ wciœnij A-pojawi siê operacja wprowadz lub insert w ang, aby wyjœæ wciœnij esc i wpisz ":wq")
 7) git commit -m 'tutaj wpisz treœæ komitu' - komituje omijaj¹c edytor VIM
 8) clear - czyœci konsolê
-
-Ignorowanie plików przez gita
-9) touch .gitignore - tworze plik w którym  bêdê wpisywaæ nazwy plików które maj¹ byæ ignorowane!
-10) touch log.txt - tworzê plik z loagmi który ma byæ ignorowany
-11) git brach <nazwa_ga³êzi> - tworzy now¹ ga³¹Ÿ 

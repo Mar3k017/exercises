@@ -3,4 +3,5 @@
 3) git add *.txt - dodaje wszystkie pliku o danym rozsze¿eniu 
 4) git add <nazwa_pliku> - dodaje wybrany plik
 5) git add . - dodaje wszystko
-6) git commit - komituje zmiany (opali siê VM aby pisaæ wciœnij A-pojawi siê operacja wprowadz lub insert w ang, aby wyjœæ wciœnij esc i wpisz ":wq")
+6) git commit .- komituje zmiany dla wszystkich plików (opali siê VIM aby pisaæ wciœnij A-pojawi siê operacja wprowadz lub insert w ang, aby wyjœæ wciœnij esc i wpisz ":wq")
+7) git commit -m 'tutaj wpisz treœæ komitu' - komituje omijaj¹c edytor VIM
